@@ -1,0 +1,9 @@
+d:\users\christos\documents\visual studio 2013\Projects\chess\chess\bin\Debug\chess.exe.config
+d:\users\christos\documents\visual studio 2013\Projects\chess\chess\bin\Debug\chess.exe
+d:\users\christos\documents\visual studio 2013\Projects\chess\chess\bin\Debug\chess.pdb
+d:\users\christos\documents\visual studio 2013\Projects\chess\chess\obj\Debug\chess.Form1.resources
+d:\users\christos\documents\visual studio 2013\Projects\chess\chess\obj\Debug\chess.Properties.Resources.resources
+d:\users\christos\documents\visual studio 2013\Projects\chess\chess\obj\Debug\chess.csproj.GenerateResource.Cache
+d:\users\christos\documents\visual studio 2013\Projects\chess\chess\obj\Debug\chess.exe
+d:\users\christos\documents\visual studio 2013\Projects\chess\chess\obj\Debug\chess.pdb
+D:\Users\Christos\documents\visual studio 2013\Projects\chess\chess\obj\Debug\chess.csprojResolveAssemblyReference.cache
