@@ -7,5 +7,5 @@ a minimal chess project using openGL, C++, C#, SDL2 (graphics, network, sounds),
 "chess(server)" folder is the server project in codeblocks.
 -Debbuged in the debug folder
 
-"chess" folder and "chess.sln" is the VS project of the debugged engine in codeblocks and the UI in winforms.
+"chess" folder and "chess.sln" is the VS project of the debugged engine - server in codeblocks and the UI in winforms.
 -Debbuged in the debug folder
